@@ -1,0 +1,14 @@
+[
+    {"carid": "car_0","make":"Honda", "category":"Sedan", "model":"Accord", "year":"2020", "price":14000, "color":"Black", "picture_url":"../images/cars/Sedan Honda Accord.png"},
+    {"carid": "car_1","make":"Hyundai", "category":"Sedan", "model":"Sonata", "year":"2017", "price":14000, "color":"Gray", "picture_url":"../images/cars/Sedan Hyundai sonata.png"},
+    {"carid": "car_2","make":"Nissan", "category":"Sedan", "model":"Altima", "year":"2018", "price":13000, "color":"Gold", "picture_url":"../images/cars/Sedan Nissan Altima.png"},
+    {"carid": "car_3","make":"Toyota", "category":"Sedan", "model":"Camry", "year":"2012", "price":11000, "color":"Silver", "picture_url":"../images/cars/Sedan Toyota camry.png"},
+    {"carid": "car_4","make":"Honda", "category":"SVU", "model":"CR-V", "year":"2013", "price":11000, "color":"Brown", "picture_url":"../images/cars/SUV CR-V.png"},
+    {"carid": "car_5","make":"Toyota", "category":"SUV", "model":"RAV4", "year":"2015", "price":15000, "color":"White", "picture_url":"../images/cars/SUV RAV4.png"},
+    {"carid": "car_6","make":"Nissan", "category":"SUV", "model":"Rouge", "year":"2015", "price":15500, "color":"Brown", "picture_url":"../images/cars/SUV Rogue.png"},
+    {"carid": "car_7","make":"Chevrolet", "category":"Truck", "model":"Silverado", "year":"2016", "price":17000, "color":"White", "picture_url":"../images/cars/Truck Chevrolet Silverado.png"},
+    {"carid": "car_8","make":"Ford", "category":"Truck", "model":"F-150", "year":"2016", "price":17000, "color":"Brown", "picture_url":"../images/cars/Truck Ford F-150.png"},
+    {"carid": "car_9","make":"Ram", "category":"Truck", "model":"1500", "year":"2010", "price":17000, "color":"Black", "picture_url":"../images/cars/Truck Ram 1500.png"},
+    {"carid": "car_10","make":"Ferarri", "category":"SportCar", "model":"Spider", "year":"2015", "price":70000, "color":"Red", "picture_url":"../images/cars/ferarri spider.png"},
+    {"carid": "car_11", "make":"Tesla", "category":"EV", "model":"Model Y", "year":"2019", "price":40000, "color":"Black", "picture_url":"../images/cars/Tesla model y.png"}
+]

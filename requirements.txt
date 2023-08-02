@@ -1,0 +1,3 @@
+azure-eventhub
+streamlit
+python-dotenv
