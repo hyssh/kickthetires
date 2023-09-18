@@ -48,4 +48,4 @@ streamQuery.awaitTermination()
 
 ## Sample notebook
 
-Click here to see [sample notebook](./adb_notebooks/Real-Time%20event%20processing%20using%20Uniform.html)
+Click here to see [sample notebook](.adb_notebooks/Real-Time event processing using Uniform.ipynb)
